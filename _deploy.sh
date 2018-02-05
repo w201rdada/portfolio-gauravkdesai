@@ -7,7 +7,7 @@ git config user.name "Gaurav Desai"
 # make sure you're on the master branch
 git checkout master
 
-cd /home/rstudio/ \
+cd /home/rstudio/portfolio-gauravkdesai/ \
 && rm -rf docs/ \
 && mv -u -T _book/ docs/
 
