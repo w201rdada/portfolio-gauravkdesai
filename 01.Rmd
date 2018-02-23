@@ -1,4 +1,4 @@
-# Predict Next War Zone {#Do-Not-Book-Flight-To-Here}
+# WarZone Predictor:Predict Next War Zone {#WarZone Predictor}
 
 #### Keywords {-}
 
