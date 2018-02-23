@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/rstudio/portfolio-gauravkdesai && rm -rf _book/ _main*md \
+cd . && rm -rf _book/ _main*md \
 && Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
