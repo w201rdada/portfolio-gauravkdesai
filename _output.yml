@@ -20,5 +20,5 @@ bookdown::gitbook:
       instapper: no
       vk: no
       all: no
-    edit: https://github.com/w201rdada/portfolio-MYGITHUBUSER/edit/master/%s
+    edit: https://github.com/w201rdada/portfolio-gauravkdesai/edit/master/%s
     download: null
