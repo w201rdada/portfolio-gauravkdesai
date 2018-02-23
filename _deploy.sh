@@ -7,7 +7,7 @@ git config user.name "Gaurav Desai"
 # make sure you're on the master branch
 git checkout master
 
-cd . \
+cd ~/ocuments/GitHub/portfolio-gauravkdesai \
 && rm -rf docs/ \
 && mv -u -T _book/ docs/
 
