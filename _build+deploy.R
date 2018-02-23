@@ -8,7 +8,7 @@ system("bash _build.sh",wait=T)
 # Replace 'index.html' with whichever page you're working on. After opening it
 # the first time you can just reload the browser.
 
-getOption("viewer")('/home/rstudio/_book/index.html') 
+getOption("viewer")('~/Documents/GitHub/portfolio-gauravkdesai/_book/index.html') 
 
 # DEPLOY
 # Always after building, run the deploy line to copy .html from the preview

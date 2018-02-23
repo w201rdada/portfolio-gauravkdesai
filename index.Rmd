@@ -21,11 +21,7 @@ readLines('https://www.zotero.org/api/users/4668669/items/top?limit=25&format=bi
 ### Abstract of [WarZone Predictor](#WarZone-Predictor) {-}
 
 Lets predict where the next war will occur!!
-My first big idea is to deconstruct the parameters which indicate when an country is moving towards a warzone and try and predict for any given time which areas in the world are prone to war,
-
-### Abstract of my second cool idea {-}
-
-Coming soon!!
+My first big idea is to deconstruct the parameters which indicate when an country is moving towards a warzone and try and predict for any given time which areas in the world are prone to war.
 
 ## About the author {-}
 
