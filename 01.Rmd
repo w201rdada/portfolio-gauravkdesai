@@ -16,19 +16,20 @@ This insight would certainly help countries plan their defense budget, strategy 
 
 We source the war and conflict details for past few centuries. We will attribute the war with details such as number of countries that participated, cost of war, human loss, material loss and duration of war.
 
-Then for same time period we will gather various parameters for each of the countries whether that country was at war or at peace-
-Economic attributes: GDP, debt, FX, export/import of each country, gun/weapon imports into the country
-Government attributes: Local government stability/popularity/majority, democratic or autocratic, government's military spends
-Demographic attributes: Population, crime rates, ethnic and religious distribution, transparency index
-Geographical attributes: whether it is costal or enclave, number of countries surrounding this country, difficulty of terrain 
-Regional unrest history: whether that country/region is known for unrest and wars. 
+Then for same time period we will gather various parameters for each of the countries whether that country was at war or at peace-   
+Economic attributes: GDP, debt, FX, export/import of each country, gun/weapon imports into the country   
+Government attributes: Local government stability/popularity/majority, democratic or autocratic, government's military spends   
+Demographic attributes: Population, crime rates, ethnic and religious distribution, transparency index   
+Geographical attributes: whether it is costal or enclave, number of countries surrounding this country, difficulty of terrain  
+Regional unrest history: whether that country/region is known for unrest and wars.  
 
-Now that we have all the required data within acceptable quality range lets look at some interesting findings
-1. If we plot scatterplot matrix for following 3 attributes
-export/import ratio is less than 5% => imports are 20 times the exports indicating highly dependent country economy
-Debt/GDP ration is more than 400% => super leveredged country [@dorfman_forget_nodate]
-Government popularity is greater than 80% => Government is capable of taking radical decisions. May be the government became popular due to the promising of radical action.
-Then 70% of the time the country went into war in next 3 years.
+Now that we have all the required data within acceptable quality range lets look at some interesting findings  
+
+1. If we plot scatterplot matrix for following 3 attributes  
+export/import ratio is less than 5% => imports are 20 times the exports indicating highly dependent country economy  
+Debt/GDP ration is more than 400% => super leveredged country [@dorfman_forget_nodate]  
+Government popularity is greater than 80% => Government is capable of taking radical decisions. May be the government became popular due to the promising of radical action.  
+Then 70% of the time the country went into war in next 3 years.  
 
 Now this is very interesting. High import and debt rations indicate that country is going through economic crisis with no recovery in sight. Which might have resulted in anti incumbency and elected a raw aggressive populist government which wants to break the shackles. The road often used to beak free is a war.
 
@@ -40,8 +41,8 @@ Now this is very interesting. High import and debt rations indicate that country
 ## Conclusion
 
 The study gives us useful insight that we can predict whether a country is heading towards a war with some degree of confidence.  
-These findings can be used by organizations like UN to run their programs more effectively and possibly prevent a war in making. 
-It can also be used by MNCs to direct their business strategies.
+These findings can be used by organizations like UN to run their programs more effectively and possibly prevent a war in making.  
+It can also be used by MNCs to direct their business strategies. 
 
 A word of caution is this insight can also be misused to push a country into a war by fuelling the reasons of conflicts which otherwise would have been hidden from the external world.
 
