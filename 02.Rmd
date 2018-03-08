@@ -1,21 +1,58 @@
-# Market profitability analysis on different scales of time {#when-do-i-make-money}
+# Best time to buy a stock {#StockTrend}
 
 #### Keywords {-}
 
-money, trade, profitability
+stock, money, profit
 
-## What do we mean by this
+## StockTrend, Is it for me?
+
+You have shortlisted a stock but you keep wondering when is the right time to buy that stock?
+Are you worried whether stock would go down immediately after you bought it?
+Do you wonder how external events like presidential election or hurricane will affect your stock net worth in short term?
+And when you finally want to sell it, what is best time to book profit and move out of the market?
+
+If answer to any of these questions is yes then we have a good news.
+**StockTrend** is innovative analysis tool that helps you answer exactly these kind of questions for any stock listed on NYES or NSDAQ No more blind shots into stock market. Use StockTrend and make an informed decision about your finaltial wellbeing.
 
 May be there is some relation between market turning favouravle during particular time frame. Time can be looked at from different granualirities e.g. time in a day a trade was booked to see if say afternoon deals are less profitable vs morning deals? or may be if we look at yearly time and try to figure out if any particular month favours the trade prifitability?
 
-## How we would do it
+## StockTrend, Our secret receipe
 
-Gather market fluctioations data for may be 30 years and aalyse over different time scales
-1. time of a day vs daily average
-2. time of month vs monthly avg
-3. time of year vs yearly avg
-4. just before presidential election vs 1 year after election
+StockTrend scans through more thousands of stocks listed and traded on popular US stock exchanges NYSE[@noauthor_nyse_nodate] and NASDAQ[@noauthor_nasdaq_nodate]. We go through years and years of stock prices, volumes.
+Then we also source market events like Fed rate changes, dividents, bankrupcy etc. which affect stock prices of certain companies
+We also maintain external events like Presidential election, Crude oil price shifts, Natural calamities like hurricane or cyclon, wars, sactions.
 
-## Coclusion
+Then we munch this data all together and summarize at different layers to find patterns and useful base prices for stocks that helps our customers make informed finantial secision.
 
-Hopefully we find some correlation somewhere or may be not.
+Our models are based on Box-Jenkins method[@noauthor_boxjenkins_2016] which is pioneer in analysing time-series data
+
+Let me give you some of the simplified analytics that runs under the hood. 
+
+Gather stock price for a company over the period of say couple of decades and calculate
+1. Average stock price durng each time slice of the day (9:30 am to 4pm split into 30 mins interval slices) vs  day average  
+This metric when analysed over period of time can generally show if specific stock show tendency to open high/low and then stay flat or taper down during the day  
+Usually this kind of behavior is shown by stocks affected by their offshore activities where the breaking news arrives before US wakes up so stock usually fluctuates early in the morning.
+
+2. Average stock price durng each time slice of the Month vs Montly average  
+There are multiple ways in which we slice a month. One way is to slice a month weekly. This metric show if a perticular stock moves during partcular week of the month.
+Usually a stock having lot of derivative position fluctuates more in last week of the month when derivatives settlement happen. So this metric is useful in such stocks.
+
+3. Average stock price durng each time slice of year vs Yearly average
+Again here there are multiple ways you can slice up a year.
+Most popular slice is a quarter, where lot of stocks show tendancy to be price high on a particular quarter of every year.
+Some consumer product and ecommerce stocks show high prices after year end shopping spree. So this is another slice of the year that gives more insight to our users.
+
+4. Average stock price just before presidential election vs 1 year after election
+This is usually inetersting metric and we can typically see that if one candidate is overwhelming leading the presidential race then stock market is relatively calm but if there is uncertainty then our metrics can definitely help you calm down by guessing how market might behave during presidential election.
+
+There are some of the very basic and most popular metrics. 
+Then there are more complex and propritery metrics that combine multiple factors by weiging more than one parameter and connecting the events to predict more accurate stock price moves.
+
+To give you an example of one of our interesting findings is if ecommerce stock prices do well post christmas then they also prerform better relative to market around coming valentine's day. We have a theory on why this happens but we will let you guess :)
+
+that StockTrend calculates for each of the thousands of stocks for each day, each week, each month, each year for decades of stock data from two stock exchanges and makes it available to you at tip of your fingers on demand.
+
+## StockTrend, Get it now
+
+StockTrend calculates hundreds of complex metrics for each of the thousands of stocks for each day, each week, each month, each quarter, each year for decades of stock data from two stock exchanges, combines it with external events and makes it available to you at on demand so that you can breath easy when you press that buy or sell button.
+Don't beleiev us? Start a free trial and get a glipse of what StockTrend has to offers.
