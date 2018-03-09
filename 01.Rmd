@@ -29,7 +29,7 @@ Then for same time period we will gather various parameters for each of the coun
 
 **Government attributes:**   
 - Local government stability/popularity/majority  
-- Whether givernment is democratic or autocratic  
+- Whether government is democratic or autocratic  
 - Government's military spends   
 
 **Demographic attributes:**      
@@ -49,8 +49,8 @@ Now that we have all the required data within acceptable quality range lets look
 
 1. If we plot scatterplot matrix for following 3 attributes  
 export/import ratio is less than 5% => imports are 20 times the exports indicating highly dependent country economy  
-Debt/GDP ration is more than 400% => super leveredged country [@dorfman_forget_nodate]  
-Government popularity is greater than 80% => Government is capable of taking radical decisions. May be the government became popular due to the promising of radical action.  
+Debt/GDP ration is more than 400% => super leveraged country [@dorfman_forget_nodate]  
+Government popularity is greater than 80% => Government is capable of taking radical decisions. May be the government became popular by promising some radical action.And that radical action could lead to war.  
 Then 70% of the time the country went into war in next 3 years.  
 
 Now this is very interesting. High import and debt rations indicate that country is going through economic crisis with no recovery in sight. Which might have resulted in anti incumbency and elected a raw aggressive populist government which wants to break the shackles. The road often used to beak free is a war.
