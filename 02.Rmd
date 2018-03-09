@@ -1,24 +1,24 @@
-# StockTrend:Stock Price Trend Analytics  {#StockTrend}
+# StockTrend: Stock Price Trend Analytics  {#StockTrend}
 
 #### Keywords {-}
 
 stock, money, profit
 
-## StockTrend, Is it for me?
+## Is it for me?
 
-You have shortlisted a stock but you keep wondering when is the right time to buy that stock?  
-Are you worried whether stock would go down immediately after you bought it?  
-Do you wonder how external events like presidential election or hurricane will affect your stock net worth in the short term?  
-And when you finally want to sell it, what is best time to book profit and move out of the market?
+a.You have shortlisted a stock but you keep wondering when is the right time to buy that stock?  
+b.Are you worried whether stock would go down immediately after you bought it?  
+c.Do you wonder how external events like presidential election or hurricane will affect your stock net worth in the short term?  
+d.And when you finally want to sell it, what is best time to book profit and move out of the market?
 
 If answer to any of these questions is yes then we have a good news for you.
-**StockTrend** is innovative analysis tool that helps you answer exactly these kind of questions for any stock listed on NYSE or NSDAQ. No more blind shots into stock market. Use **StockTrend** and make an informed decision about your financial wellbeing.
+**StockTrend** is innovative analtics tool that helps you answer exactly these kind of questions for any stock listed on NYSE or NSDAQ. No more blind shots into stock market. Use **StockTrend** and make an informed decision about your financial wellbeing.
 
 Stock price cycles through ups and down but many times it shows some interesting pattern with respect to *Time*. *Time* can be looked at from different granularities e.g. hour of the day the trade was booked to see if say afternoon deals are less profitable vs. morning deals? or may be if we look at yearly time and try to figure out if any particular month favors the trade profitability?
 
 **StockTrend** helps you identify all such hidden relations by going through millions of combinations of time slices per stock for decades of price movements and dishes out extremely digestible report of stock price analysis on multiple *Time* metrics to help you make right money making choice.
 
-## StockTrend, Our secret receipe
+## Our secret receipe
 
 **StockTrend** scans through thousands of stocks listed and traded on popular US stock exchanges NYSE [@noauthor_nyse_nodate] and NASDAQ [@noauthor_nasdaq_nodate]. We go through years and years of stock prices, trade volumes, lot sizes and lots of other trading information.  
 
@@ -63,7 +63,7 @@ Then there are more complex and proprietary metrics that combine multiple factor
 
 To give you an example of one of our interesting findings - if ecommerce stock prices do well around Christmas then they also perform better relative to market around coming Valentine's day. We have a theory on why this happens but we will let you guess :)  
 
-## StockTrend, Get it now
+## Get it now
 
 We are not yet another trading tips tool. **StockTrend** does not generate trading tips. We don't sell any financial product either and we never will.  
 
