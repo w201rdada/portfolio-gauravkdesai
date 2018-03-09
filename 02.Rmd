@@ -18,21 +18,21 @@ Stock price cycles through ups and down but many times it shows some interesting
 
 **StockTrend** helps you identify all such hidden relations by going through millions of combinations of time slices per stock for decades of price movements and dishes out extremely digestible report of stock price analysis on multiple *Time* metrics to help you make right money making choice.
 
-## Our secret receipe
+## Our secret receip
 
 **StockTrend** scans through thousands of stocks listed and traded on popular US stock exchanges NYSE [@noauthor_nyse_nodate] and NASDAQ [@noauthor_nasdaq_nodate]. We go through years and years of stock prices, trade volumes, lot sizes and lots of other trading information.  
 
 Then we also source market events like   
 - Fed rate changes    
-- dividends  
-- bankruptcy     
+- Dividends  
+- Bankruptcy     
 
 We also maintain external events like   
 - Presidential election    
 - Crude oil price shifts  
 - Natural calamities like hurricane or cyclone  
-- wars    
-- government imposed sanctions on particular country/sector/company.  
+- Wars    
+- Government imposed sanctions on particular country/sector/company.  
 
 Then we munch this humongous data and summarize at different layers using our proprietary algorithms to find patterns and useful stock base prices to helps our customers make informed financial decision.
 
@@ -59,7 +59,7 @@ e.g. Some consumer product and ecommerce stocks show high prices in Jan-March qu
 This is usually interesting metric and we can typically see that if one candidate is overwhelming leading the presidential election race then stock market is relatively calm but if there is uncertainty then our metrics can definitely help you calm down by guessing how market might behave during presidential election.
 
 These are some of the very basic and most popular metrics inside **StockTrend**.  
-Then there are more complex and proprietary metrics that combine multiple factors by huristically determined weights and connecting the events to predict more accurate stock price moves.  
+Then there are more complex and proprietary metrics that combine multiple factors by heuristically determined weights and connecting the events to predict more accurate stock price moves.  
 
 To give you an example of one of our interesting findings - if ecommerce stock prices do well around Christmas then they also perform better relative to market around coming Valentine's day. We have a theory on why this happens but we will let you guess :)  
 
