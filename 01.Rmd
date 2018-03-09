@@ -10,18 +10,40 @@ History of human kind is filled with wars that have grown from mere fights betwe
 
 Hence it is necessity to study the historical war zones and try to predict the future so that we can be well prepared and we can diffuse a potential war even before it starts.
 
-This insight would certainly help countries plan their defense budget, strategy and even choice of ally. It will also help organizations like UN to work effectively more than ever before. It can also help MNCs to strategies expansion or oher business decisions.
+This insight would certainly help countries to plan their defense budgets, strategies and even choice of ally wisely e.g. by going heavy on defence budget if one of the neighbors is trending towards war. 
+It will also help organizations like UN to work effectively due to it's ability to intervene in a war prone situation even before material damage is done. 
+And taking into considration the multi pronged economic impact of war[@noauthor_economic_nodate], the war predictions will help Multi National corporates to strategies expansion or oher business decisions across the border by carefully avoiding war prone areas.
 
 ## How can we predict next War Zone
 
 We source the war and conflict details for past few centuries. We will attribute the war with details such as number of countries that participated, cost of war, human loss, material loss and duration of war.
 
 Then for same time period we will gather various parameters for each of the countries whether that country was at war or at peace-   
-Economic attributes: GDP, debt, FX, export/import of each country, gun/weapon imports into the country   
-Government attributes: Local government stability/popularity/majority, democratic or autocratic, government's military spends   
-Demographic attributes: Population, crime rates, ethnic and religious distribution, transparency index   
-Geographical attributes: whether it is costal or enclave, number of countries surrounding this country, difficulty of terrain  
-Regional unrest history: whether that country/region is known for unrest and wars.  
+
+**Economic attributes:**  
+- GDP   
+- Debt  
+- FX  
+- export/import of each country  
+- gun/weapon imports into the country    
+
+**Government attributes:**   
+- Local government stability/popularity/majority  
+- Whether givernment is democratic or autocratic  
+- Government's military spends   
+
+**Demographic attributes:**      
+- Population, crime rates  
+- Ethnic and religious distribution  
+- Transparency index   
+
+**Geographical attributes:**    
+- Whether it is costal or enclave  
+- Number of direct neighbor countries  
+- Difficulty of terrain   
+
+**Regional unrest history:**   
+- Whether that country/region is known for unrest and wars.  
 
 Now that we have all the required data within acceptable quality range lets look at some interesting findings  
 
@@ -46,5 +68,5 @@ It can also be used by MNCs to direct their business strategies.
 
 A word of caution is this insight can also be misused to push a country into a war by fuelling the reasons of conflicts which otherwise would have been hidden from the external world.
 
-And finally we should also understand that what we are predicting here is open war. The world has already moved ahead in technology and the future war is likely to be a cyber war or a hidden war. These types of wars cannot be predicted by above study.
+And finally we should also understand that what we are predicting here is an open war. The world has already moved ahead in technology and the future war is likely to be a cyber war or a hidden war. These types of wars cannot be predicted by above study.
 [@broadberry_economic_nodate]
