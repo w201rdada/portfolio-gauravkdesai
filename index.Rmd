@@ -18,6 +18,10 @@ readLines('https://www.zotero.org/api/users/4668669/items/top?limit=25&format=bi
 
 # Welcome! {-}
 
+```{r echo=FALSE,fig.align='center'} 
+knitr::include_url('https://drive.google.com/open?id=1MMsCIZGWwFikKR00iNPM89D7t82UXmK3') 
+```
+
 ### Abstract of [WarZone Predictor](#WarZone-Predictor) {-}
 
 Lets predict where the next war will occur!!
@@ -28,8 +32,12 @@ My first big idea is to deconstruct the parameters which indicate when an countr
 Lets analyze our beloved stock market by looking at stock prices through different Time Slices' length.
 My second big idea is about an analytical tool that dissects stock price from decades of price movement and generates patterns across various time slices to help customers make better financial decisions.
 
-## About the author {-}
+## About the author: Gaurav Desai{-}
 
-Gaurav Desai is software engineer by profession and Data Science enthusiast. Believes that data can tell stories.
+```{r echo=FALSE, out.width = '10%', fig.align='center'}
+knitr::include_graphics("img/Gaurav_Photo.jpg", )
+```
+
+Gaurav is a software engineer by profession and a data science enthusiast. Before MIDS, he worked for financial giants like UBS and JP Morgan, primarily working in the Credit Derivative Risk space. While working in the financial domain he discovered his passion for analyzing and making sense of vast amounts of data. That was the turning point in his professional life. Then he turned his career boat from software engineering to Data Science by joining MIDS. Gaurav firmly believes that data can tell stories, and if we look at the data from various perspectives, we can discover hidden knowledge and improve human life by making informed decisions.
 
 *Updated: `r Sys.Date()`*
