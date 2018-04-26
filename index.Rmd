@@ -18,10 +18,6 @@ readLines('https://www.zotero.org/api/users/4668669/items/top?limit=25&format=bi
 
 # Welcome! {-}
 
-```{r echo=FALSE,fig.align='center'} 
-knitr::include_url('https://drive.google.com/open?id=1MMsCIZGWwFikKR00iNPM89D7t82UXmK3') 
-```
-
 ### Abstract of [WarZone Predictor](#WarZone-Predictor) {-}
 
 Lets predict where the next war will occur!!
